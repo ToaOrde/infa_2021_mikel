@@ -1,3 +1,3 @@
 # infa_2021_mikel
-welcome!
+Welcome!
 This is test project.
