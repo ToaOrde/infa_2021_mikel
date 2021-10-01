@@ -2,4 +2,4 @@
 Welcome!
 This is test project.
 
-Otl(10)
+(10)
